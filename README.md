@@ -1,3 +1,4 @@
 <span style="color: #df2dc0;">Olá! Seja bem-vindo(a) ao meu projeto de portfólio!</span>
 
-![aa99bd85f490c8d0a4ef75418f138768.png](:/5952071d95e2487cb5d4548297d2f966)
+
+![Captura de tela de 2024-06-27 17-40-24](https://github.com/sunHelen12/Portfolio/assets/173499841/2a0f0a1e-b1e1-4fb0-9b66-73337c522079)
