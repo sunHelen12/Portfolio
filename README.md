@@ -15,4 +15,4 @@
 
 ### Helen Santos
 
-### Linkedin: https://www.linkedin.com/school/aluracursos/](https://www.linkedin.com/in/helen-santos-dev
+### Linkedin: https://www.linkedin.com/in/helen-santos-dev
